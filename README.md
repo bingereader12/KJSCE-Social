@@ -1,7 +1,3 @@
-Certainly! Below is an upgraded README for the KJSCE Social application highlighting Context API, MERN Stack, and Socket.IO:
-
----
-
 # KJSCE Social: Connect, Network, and Grow
 
 KJSCE Social is a dynamic and feature-rich social media platform designed exclusively for the students and alumni of K.J. Somaiya College of Engineering. It offers a seamless way for users to connect, network, and foster relationships within the KJSCE community.
