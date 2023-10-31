@@ -17,12 +17,8 @@ export default function Sidebar() {
                         <span className="sidebarListItemText">Chats</span>
                     </li>
                     <li className="sidebarListItem">
-                        <PlayCircle className="sidebarIcon" />
-                        <span className="sidebarListItemText">Videos</span>
-                    </li>
-                    <li className="sidebarListItem">
                         <Group className="sidebarIcon" />
-                        <span className="sidebarListItemText">Groups</span>
+                        <span className="sidebarListItemText">Alumni Connect</span>
                     </li>
                     <li className="sidebarListItem">
                         <Bookmark className="sidebarIcon" />
@@ -45,7 +41,7 @@ export default function Sidebar() {
                         <span className="sidebarListItemText">Courses</span>
                     </li>
                 </ul>
-                <button className="sidebarButton">Show More</button>
+               
                 <hr className="sidebarHr" />
                 <ul className="sidebarFriendList">
                     {Users.map(u => (
