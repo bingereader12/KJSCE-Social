@@ -14,67 +14,66 @@ export const Users = [
     {
         id:3,
         profilePicture:"person/3.jpeg",
-        username: "Devesh Jain",
+        username: "Riya Hemani",
     },
 
     {
         id:4,
         profilePicture:"person/4.jpeg",
-        username: "Gwen Stacy",
+        username: "Riya Hemani",
     },
 
     {
         id:5,
         profilePicture:"person/5.jpeg",
-        username: "Andrew Garfield",
+        username: "Riya Hemani",
     },
 
     {
         id:6,
         profilePicture:"person/6.jpeg",
-        username: "Anne Hathaway",
+        username: "Riya Hemani",
     },
 
     {
         id:7,
         profilePicture:"person/7.jpeg",
-        username: "Chris Evans",
+        username: "Riya Hemani",
     },
 
     {
         id:8,
         profilePicture:"person/8.jpeg",
-        username: "Cobie Smulders",
+        username: "Riya Hemani",
     },
 
     {
         id:9,
         profilePicture:"person/9.jpeg",
-        username: "Barney Stinson",
+        username: "Riya Hemani",
     },
 
     {
         id:10,
         profilePicture:"person/10.jpeg",
-        username: "Ted Mosby",
+        username: "Riya Hemani",
     },
-
     {
         id:11,
         profilePicture:"person/11.jpeg",
-        username: "Rachel Green",
+        username: "Riya Hemani",
     },
 
     {
         id:12,
         profilePicture:"person/12.jpeg",
-        username: "Monica Geller",
+        username: "Riya Hemani",
     },
 
     {
         id:13,
         profilePicture:"person/13.jpeg",
-        username: "Chandler Bing",
+        username: "Riya Hemani",
     },
 ];
 
