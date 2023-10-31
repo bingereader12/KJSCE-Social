@@ -17,6 +17,7 @@ KJSCE Social is a dynamic and feature-rich social media platform designed exclus
 - **Personalized Profiles:** Customize profiles, add educational and professional details.
 - **Real-Time Chat:** Instant messaging between users to facilitate communication.
 - **Notifications:** Receive updates on follows, likes, and comments.
+- **Dark Mode:** Allows user to switch the mode according to their convienence.
 
 ## Authors
 
@@ -64,6 +65,4 @@ We welcome contributions to enhance and refine the KJSCE Social platform. Here's
 - Push to the branch: `git push origin feature/AmazingFeature`.
 - Open a pull request.
 
----
 
-This updated README provides a comprehensive overview of KJSCE Social, focusing on its key features, technologies utilized, and how to get started. Adjust the content as necessary, ensuring it aligns with the project specifics.
