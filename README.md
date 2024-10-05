@@ -52,7 +52,9 @@ KJSCE Social is built using cutting-edge technologies:
 To run the application locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/KJSCESocial.git`
-2. Install dependencies in both the client and server directories using `npm install`.
+   Add .env files in client: REACT_APP_PUBLIC_FOLDER = http://localhost:8000/images/
+   Add .env files in api: MONGO_URL = mongodb+srv://jain47031:N2QogyiPlSzx0d8f@cluster0.5z57dhu.mongodb.net/
+2. Install dependencies in all the folders using `npm install`.
 3. Set up environment variables and configurations as needed.
 4. Start the server and client simultaneously using `npm start` or `npm run dev`.
 
